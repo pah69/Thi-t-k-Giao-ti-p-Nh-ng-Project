@@ -1,2 +1,2 @@
-# Thi-t-k-Giao-ti-p-Nh-ng-Project
+# ThietkeGiaotiepnhungProject
 project for ET4261 : thiết kế giao tiếp nhúng
